@@ -1,10 +1,41 @@
-# Exp - 5 STUDENT ENROLLMENT SYSTEM
+# LAB-5-Student-registration-system
+## NAME: Naresh Kumar V
+## REG NO: 212223040126
+### AIM:
+To develop a project Student Registration System using Rational Rose Software and to
+implement the software in Java.
+### PROBLEM ANALYSIS AND PROJECT PLANNING:
+A Student Registration system (SRS) is a software application for educational
+establishments to manage student data. Student information systems provide capabilities for
+entering student test and other assessment scores, building student schedules, tracking student
+attendance, and managing many other student-related data needs in a school, college or
+university.
+### PROBLEM STATEMENT:
+a. Effective for Administration Purpose
+b. Cost effective
+c. Better Service
+### UML DIAGRAMS:
+# Usecase diagram:
+<img width="1032" height="1075" alt="image" src="https://github.com/user-attachments/assets/30761924-0d30-4082-b712-cfbf637a0d88" />
 
-# AIM:
+# Sequence diagram:
+<img width="1013" height="915" alt="image" src="https://github.com/user-attachments/assets/47ff9ef7-48b8-4597-9de2-0a603ffc4815" />
 
-# SRS (Procedure):
+# Communication diagram:
+<img width="1025" height="981" alt="image" src="https://github.com/user-attachments/assets/b625d3fd-6d36-4fc9-9052-7e04504a2a46" />
 
-# DIAGRAMS:
-(upload all 6 diagrams)
+# Activity diagram:
+<img width="883" height="1071" alt="image" src="https://github.com/user-attachments/assets/81681090-5398-4c24-9475-41092fb6bbb0" />
 
-# RESULT:
+# Class diagram:
+<img width="1132" height="988" alt="image" src="https://github.com/user-attachments/assets/5f4c5dc3-8cde-4393-9e25-c3355558f666" />
+
+# Package diagram:
+<img width="1105" height="907" alt="image" src="https://github.com/user-attachments/assets/2009d01e-a02d-4150-b81c-6db078890f99" />
+
+
+### RESULT:
+Thus the Student information system project was executed and the output was
+verified.
+
+
